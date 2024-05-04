@@ -1,0 +1,10 @@
+进去后使用 system-view 进入配置模式
+
+配置IP：
+ip address 10.10.10.1 255.255.255.0
+
+关闭接口命令: shutdown 
+开启接口命令： undo shutdown
+重启路由器命令： reboot
+
+

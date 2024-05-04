@@ -8,3 +8,4 @@ no shutdown
 
 reboot 命令重启交换机或路由器
 
+退出命令 用： exit

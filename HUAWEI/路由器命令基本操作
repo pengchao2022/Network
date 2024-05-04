@@ -7,4 +7,6 @@ ip address 10.10.10.1 255.255.255.0
 开启接口命令： undo shutdown
 重启路由器命令： reboot
 
+退出命令 ： quit
+
 
